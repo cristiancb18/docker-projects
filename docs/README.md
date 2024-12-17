@@ -1,6 +1,6 @@
 # Conversor de Monedas Dockerizado
 
-Este es un proyecto de conversor de monedas que utiliza Docker para su contenedorización. La aplicación proporciona una interfaz de usuario simple para convertir una moneda a otra, utilizando una API externa para obtener las tasas de cambio en tiempo real.
+Este es un proyecto de conversor de monedas que utiliza Docker para contenerizar la aplicación. Esta proporciona una interfaz de usuario simple para convertir una moneda a otra, utilizando una API externa para obtener las tasas de cambio en tiempo real.
 
 La imagen de Docker está disponible en Docker Hub, lo que permite ejecutar la aplicación fácilmente sin necesidad de construir la imagen desde cero.
 
@@ -22,7 +22,7 @@ Para ejecutar este proyecto en tu máquina local, necesitarás tener instalado l
 
 1. **Ejecutar el contenedor Docker desde Docker Hub**:
 
-   Si no tienes la imagen de Docker en tu máquina, puedes ejecutarla directamente desde Docker Hub con el siguiente comando:
+   Usamos la imagen desde Docker Hub con el siguiente comando:
 
     ```bash
     docker run -p 8080:8080 crisbeltran97/conversor-monedas
