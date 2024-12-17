@@ -34,6 +34,10 @@ Para ejecutar este proyecto en tu máquina local, necesitarás tener instalado l
 
     Abre tu navegador y ve a `http://localhost:8080` para usar el conversor de monedas.
 
+   ![image](https://github.com/user-attachments/assets/a1a00bea-b873-4d1e-bffe-fa33f8d23953)
+
+
+
 ## Licencia
 
 Este proyecto está licenciado bajo la **Licencia MIT**.
