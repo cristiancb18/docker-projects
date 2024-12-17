@@ -34,20 +34,10 @@ Para ejecutar este proyecto en tu máquina local, necesitarás tener instalado l
 
     Abre tu navegador y ve a `http://localhost:8080` para usar el conversor de monedas.
 
-## Cómo Contribuir
-
-Si deseas contribuir a este proyecto, sigue estos pasos:
-
-1. Haz un fork del repositorio.
-2. Crea una rama con tu feature o arreglo de bug: `git checkout -b mi-feature`.
-3. Haz commit de tus cambios: `git commit -m 'Agregado mi feature'`.
-4. Haz push a tu rama: `git push origin mi-feature`.
-5. Crea un pull request describiendo los cambios realizados.
-
 ## Licencia
 
 Este proyecto está licenciado bajo la **Licencia MIT**.
 
 ## Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [tu correo electrónico] o en GitHub.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de mi correo [19cristiancb@gmail.com] o en GitHub.
